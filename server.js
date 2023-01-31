@@ -16,7 +16,10 @@ app.get("/api/notes", (req, res) => {
 });
 
 app.post("/api/notes", (req, res) => {
-  
+  console.log(req.body);
+  res.status(PORT).json({
+    message: 'Post has been successfully generated'
+  });
 });
 
 app.get("*", (req, res) =>
