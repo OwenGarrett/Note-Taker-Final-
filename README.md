@@ -11,4 +11,4 @@ OG :alien: :yin_yang:
 <img src="/public/assets/screenshot.png" alt="Deployed Note Taker App" title="Deployed Note Taker App">
 
 
-Heroku Link: 
+Heroku Link: https://note-taker-assignment.herokuapp.com/
